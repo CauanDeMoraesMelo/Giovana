@@ -52,6 +52,15 @@
 }
 
 .titulo-inicial{
-padding-left: 300px;
-padding-top:60px;
+ padding-left: 300px;
+ padding-top:70px;
+
+}
+.subtitulo-1{
+ padding-left: 300px;
+ padding-top: 70px;
+}
+.texto-1{
+    padding-left: 200px;
+    padding-top:60px ;
 }
